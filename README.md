@@ -5,4 +5,4 @@ During this experience, I have learnt how to: <br>
 - Identify high-value customers by analyzing customer demographics and attributes. <br>
 - Create a dashboard that effectively visualizes insights for presentation purposes.
 <hr>
-<img src="Dashboard.JPG">
+<img src="Dashboard.jpg">
